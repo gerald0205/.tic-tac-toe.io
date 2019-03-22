@@ -1,1 +1,1 @@
-# .tic-tac-toe.io
+# .tictactoe.io
